@@ -32,3 +32,15 @@ CNPJ:
 65.031.479/0001-79
 Inscrição Estadual:
 163.408.249.408
+Nome:
+Paulo e Vinicius Padaria ME
+CNPJ:
+21.393.373/0001-40
+Inscrição Estadual:
+716.411.999.984
+Nome:
+Kamilly e Teresinha Filmagens ME
+CNPJ:
+33.993.280/0001-35
+Inscrição Estadual:
+077.491.170.897
